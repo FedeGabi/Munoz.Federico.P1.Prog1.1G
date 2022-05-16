@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652735327 source:c:\users\fedec\onedrive\desktop\labo\munoz.federico.p1.lab1.1g\parcialprogramacion1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652741112 source:c:\users\fedec\onedrive\desktop\parcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
